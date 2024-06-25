@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <tag>Fake news, mentira, calúnia, crime</tag>
+        <idioma>4</idioma>
+        <licencia></licencia>
+        <adxuntos>img-fn.jpeg</adxuntos>
+        <corfondo>99D8FD</corfondo>
+        <corbanda>049DF9</corbanda>
+        <cornavega>036CAB</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>5D5D5D</cortexto>
+        <titulo>Muito cuidado, não compartilhe mentiras!</titulo>
+        <autor>PEJA Capanema</autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>1</desordenar>
+        <correcto son="" modo="1" >Acertou! Muito bem!</correcto>
+        <incorrecto son="" modo="1" >Se enganou! Tente novamente.</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>1</tipo>
+              <cabeceira>PEJA Capanema contra Fake News!</cabeceira>
+              <imaxe>img-fn.jpeg</imaxe>
+              <texto>O que são fake news?</texto>
+              <resp texto="" valor="0">Notícias verdadeiras.</resp>
+              <resp texto="" valor="0">Notícias antigas.</resp>
+              <resp texto="" valor="1">Notícias falsas ou enganadoras.</resp>
+              <resp texto="" valor="0">Notícias locais.</resp>
+        </paxina>
+        <paxina id="2" >
+              <tipo>1</tipo>
+              <cabeceira>PEJA Capanema contra Fake News!</cabeceira>
+              <imaxe>img-fn.jpeg</imaxe>
+              <texto>Qual é um dos principais objetivos das fake news?</texto>
+              <resp texto="" valor="0">Informar a população.</resp>
+              <resp texto="" valor="0">Divertir os leitores.</resp>
+              <resp texto="" valor="1">Enganar ou manipular a opinião pública.</resp>
+              <resp texto="" valor="0">Promover campanhas de saúde.</resp>
+        </paxina>
+        <paxina id="3" >
+              <tipo>1</tipo>
+              <cabeceira>PEJA Capanema contra Fake News!</cabeceira>
+              <imaxe>img-fn.jpeg</imaxe>
+              <texto>Como as  fake news geralmente se espalham rapidamente?</texto>
+              <resp texto="" valor="0">Através de jornais impressos.</resp>
+              <resp texto="" valor="0">Através de livros.</resp>
+              <resp texto="" valor="1">Através das redes sociais e aplicativos de mensagens.</resp>
+              <resp texto="" valor="0">Através de revistas científicas.</resp>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+              <cabeceira>PEJA Capanema contra Fake News!</cabeceira>
+              <imaxe>img-fn.jpeg</imaxe>
+              <texto>Qual é um dos maiores perigos das fake news?</texto>
+              <resp texto="" valor="0">Aumento de vendas de jornais.</resp>
+              <resp texto="" valor="1">Desinformação e potencial prejuízo á sociedade.</resp>
+              <resp texto="" valor="0">Entretenimento para o público.</resp>
+              <resp texto="" valor="0">Desenvolvimento científico.</resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <cabeceira>PEJA Capanema contra Fake News!</cabeceira>
+              <imaxe>img-fn.jpeg</imaxe>
+              <texto>Qual  é uma técnica comum usada para criar fake news?</texto>
+              <resp texto="" valor="0">Citação de fontes confiáveis.</resp>
+              <resp texto="" valor="1">Edição de vídeos e foto para deturpar a realidade.</resp>
+              <resp texto="" valor="0">Publicação em revistas científicas.</resp>
+              <resp texto="" valor="0">divulgação de relatórios oficiais.</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+              <cabeceira>PEJA Capanema contra Fake News!</cabeceira>
+              <imaxe>img-fn.jpeg</imaxe>
+              <texto>Qual entidade no Brasil se dedica ao combate das fake news?</texto>
+              <resp texto="" valor="0">OAB.</resp>
+              <resp texto="" valor="0">STF.</resp>
+              <resp texto="" valor="1">Agência Lupa.</resp>
+              <resp texto="" valor="0">Anvisa.</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <cabeceira>PEJA Capanema contra Fake News!</cabeceira>
+              <imaxe>img-fn.jpeg</imaxe>
+              <texto>Qual foi um dos eventos recentes fortemente impactados por fake news?</texto>
+              <resp texto="" valor="0">A Segunda Guerra Mundial.</resp>
+              <resp texto="" valor="0">A Revolução industrial.</resp>
+              <resp texto="" valor="1">A pandemia de COVID-19.</resp>
+              <resp texto="" valor="0">A descoberta da penicilina.</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <cabeceira>PEJA Capanema contra Fake News!</cabeceira>
+              <imaxe>img-fn.jpeg</imaxe>
+              <texto>Qual é uma medida que pode ser tomada para reduzir a propagação de fake news?</texto>
+              <resp texto="" valor="0">Desligar a internet.</resp>
+              <resp texto="" valor="1">Educar o público sobre alfabetização midiática.</resp>
+              <resp texto="" valor="0">Perar de usar redes sociais.</resp>
+              <resp texto="" valor="0">Aumentar a propaganda.</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <cabeceira>PEJA Capanema contra Fake News!</cabeceira>
+              <imaxe>img-fn.jpeg</imaxe>
+              <texto>Qual é uma consequência legal da criação ou disseminação de fake news no Brasil?</texto>
+              <resp texto="" valor="0">Prisão perpétua.</resp>
+              <resp texto="" valor="1">Multas e detanção, dependendo do caso.</resp>
+              <resp texto="" valor="0">Pena morte.</resp>
+              <resp texto="" valor="0">Promoção no trabalho.</resp>
+        </paxina>
+        <paxina id="10" >
+              <tipo>1</tipo>
+              <cabeceira>PEJA Capanema contra Fake News!</cabeceira>
+              <imaxe>img-fn.jpeg</imaxe>
+              <texto>O que é calúnia?</texto>
+              <resp texto="" valor="0">Divulgar informação verídica.</resp>
+              <resp texto="" valor="1">Acusar falsamente alguém de um crime.</resp>
+              <resp texto="" valor="0">Publicar um artigo científico.</resp>
+              <resp texto="" valor="0">Fazer uma crítica construtiva.</resp>
+        </paxina>
+    </libro>
+</lim>
